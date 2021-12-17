@@ -44,4 +44,11 @@
         android:drawableEnd="@drawable/arrow_left"
         android:drawablePadding="4dp"/>
 
+    <Button
+        android:id="@+id/cheat_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/cheat_button"
+        android:drawablePadding="4dp"/>
+
 </LinearLayout>
